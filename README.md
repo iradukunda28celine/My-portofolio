@@ -2,7 +2,11 @@
 
 This my portofolio so far...
 
-## Features
+## UI Link Example
+
+ Click here to view my page [IRENE CELINE Portofolio]( https://iradukunda28celine.github.io/My-portofolio/)
+
+### Features
 
 - My profie and what i do .
 - Bout me 
@@ -11,15 +15,6 @@ This my portofolio so far...
 - My work and projects i have done so far
 - Testimonials of who i worked with.
 - Get in touch button for contacting me.
-
-
-
-
-
-### UI Link Example
-
-[Irene celine Portofolio]( https://iradukunda28celine.github.io/My-portofolio/)
-
 
 ## Tools Used
 
